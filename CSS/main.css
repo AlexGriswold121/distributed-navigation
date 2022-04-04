@@ -36,6 +36,9 @@ padding-right: 1rem;
     font-size: 1.125rem;
     list-style: none;
     display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: auto;
   }
 
   a:hover{
@@ -44,5 +47,7 @@ padding-right: 1rem;
 
   nav a{
     color: #007fd9;
-
+    margin-right: 1rem;
+    margin-left: 1rem;
+    text-decoration: none;
   }
