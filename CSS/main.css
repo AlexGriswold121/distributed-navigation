@@ -22,13 +22,13 @@ padding-left: 1rem;
 padding-right: 1rem;
   }
 
-  img{
+  header img{
     max-width: 2rem;
     order: -1;
     padding-left: 1rem;
   }
 
-  p {
+  header p {
     font-size: 1.125rem;
   }
 
@@ -36,4 +36,13 @@ padding-right: 1rem;
     font-size: 1.125rem;
     list-style: none;
     display: flex;
+  }
+
+  a:hover{
+    color: #fff;
+  }
+
+  nav a{
+    color: #007fd9;
+
   }
