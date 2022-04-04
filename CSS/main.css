@@ -6,12 +6,12 @@ html {
   margin: 0;
 }
 
-  *, *::before, *::after {
-    box-sizing: inherit;
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 body {
- margin: 0;
+  margin: 0;
 }
 
 header {
